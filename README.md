@@ -1,2 +1,2 @@
 # Ejercicios-Kata
-En este espacio subiremos nuestros avances de las katas realizadas 
+En este espacio subiremos nuestros notebooks con las katas realizadas de la documentacion leida
