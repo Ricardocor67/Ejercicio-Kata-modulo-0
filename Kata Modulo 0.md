@@ -1,3 +1,0 @@
-# Creacion de nuestro notebook
-
-
